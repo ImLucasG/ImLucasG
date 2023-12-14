@@ -1,6 +1,6 @@
-### Hola!
+# Hola!
 
-# Este es mi GitHub, soy un estudiante de programacion con ansias de seguir aprendiendo y con ganas de trabajar de esto que tanto me gusta.
+### Este es mi GitHub, soy un estudiante de programacion con ansias de seguir aprendiendo y con ganas de trabajar de esto que tanto me gusta.
 <!--
 **ImLucasG/ImLucasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
